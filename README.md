@@ -8,7 +8,7 @@ Gropher is a nursing robot design to carry out dexterous nursing tasks in a hosp
 
 Research study on its human interaction is being pursued by PhD candidate Joey at WPI, Worcester, MA, USA, the simulations of which are designed and built in the Unity environment.
 
-Link for the gropher robot in unity: https://github.com/hiro-wpi/Gopher-In-Unity-Simulation
+Link to the gropher robot in unity: https://github.com/hiro-wpi/Gopher-In-Unity-Simulation
    
 The simulation study essentially consists of a busy hospital floor with humans beings regularly walking around along with many static and dynamics objects placed on the floor. 
 
@@ -33,4 +33,11 @@ During the tests, it was discovered that the existing interface wasn't providing
 This repository implements building a 360 degree birds-eye-view around the Gropher robot. 
 
 ### Implementation
+
+This is an implementation of a 360 degree birds eye view inspired from the MATLAB tutorial, written in Python.
+
+Link to the tutorial: https://www.mathworks.com/help/driving/ug/create-360-birds-eye-view-image.html
+
+<img align="center" src="https://raw.githubusercontent.com/deveshdatwani/birds-eye-view/main/assets/car_example.png" width:600 height:400>
+ 
 
