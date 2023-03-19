@@ -12,6 +12,8 @@ Link for the gropher robot in unity: https://github.com/hiro-wpi/Gopher-In-Unity
    
 The simulation study essentially consists of a busy hospital floor with humans beings regularly walking around along with many static and dynamics objects placed on the floor. 
 
+<img align="center" src="https://github.com/deveshdatwani/birds-eye-view/assets/hospital.jpg" width:600 height:400>
+
 Gropher performs non-operative nursing tasks such sanitizing, reading QR codes, picking up medicines etc and the simulation is designed to conduct these tasks sequentially.  
 
 Upon relentless tests carried on the Gropher robot, instances were found where Human-Robot-Interaction could be leveraged in order to increase robot / task efficacies. 
