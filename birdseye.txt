@@ -1,2 +1,3 @@
 1) https://medium.com/analytics-vidhya/camera-calibration-theory-and-implementation-b253dad449fb
 2) https://www.mathworks.com/help/driving/ug/create-360-birds-eye-view-image.html
+3) https://nikolasent.github.io/opencv/2017/05/07/Bird's-Eye-View-Transformation.html
